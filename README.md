@@ -1,1 +1,7 @@
 # README
+
+I am a dynamic IT professional with a passion for problem-solving and a commitment to learning. At 20 years old, I've already accumulated valuable experience through three jobs, one internship and one work-study. Currently serving as a Contract Full-time Help Desk IT Specialist at Pye+Barker Fire&Safety, I gain excitement from encountering new challenges and creating innovative solutions. My belief that the IT Help Desk role is an ideal entry point into Information Technology comes from its unique position to solidify foundational skills while fostering growth in skills and knowledge. Beyond my IT-focused role, my prior experiences in customer service and teamwork from earlier jobs contribute to my well-rounded skill set.
+
+Knowledge in programming languages (C++, Java, HTML, CSS, and Python basics) and well-versed in many Operating Systems (Windows, iOS, Android, Linux basics), I bring a well-rounded skill set to the table. My expertise extends to various IT skills such as onboarding, hardware/software troubleshooting, problem-solving, active directory, ticketing, documentation and more.
+
+Additionally, I possess various knowledge on Microsoft Office Suite, Google Suite, Graphic Design Software, and 3D Modeling. While currently holding the CompTIA A+ certification, and Network+ Certification I am now working towards my Security+ Certification! I am also currently attending WGU!
